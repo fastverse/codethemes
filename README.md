@@ -1,7 +1,10 @@
 # codethemes
-My Texmate Code Themes, mainly intended for RStudio
+My texmate code themes, mainly intended for RStudio.
 
-Currently there is only one theme I called *SK Dark*, which to me works better than the cobalt theme built into RStudio:
+Currently there is only one theme I called *SK Dark*, which to me works better and fits more nicely with the IDE than the Cobalt theme built into RStudio:
 
-![](skdark.png)
+SK Dark                    |  Cobalt
+:-------------------------:|:-------------------------:
+![](skdark.png)            |  ![](cobalt.png)
+
 
