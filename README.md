@@ -1,10 +1,10 @@
 # codethemes
-My TexMate code themes, mainly intended for RStudio.
+ TexMate code themes, inspired by *fastverse* colours, mainly intended for RStudio.
 
-Currently there is only one theme I called *SK Dark*, which to me is an improvement over the *Cobalt* theme built into RStudio. If you find this useful, feel free to give feedback or propose refinements. 
+These themes are meant to constitute an improvement over the *Cobalt* theme built into RStudio. I'm working on a light version. If you find this useful, feel free to give feedback or propose refinements. 
 
-SK Dark                    |  Cobalt
+Fastverse Dark             |  Cobalt
 :-------------------------:|:-------------------------:
-![](skdark.png)            |  ![](cobalt.png)
+![](fastverse_dark.png)    |  ![](cobalt.png)
 
 
