@@ -9,7 +9,7 @@
 	<key>author</key>
 	<string>Sebastian Krantz</string>
 	<key>name</key>
-	<string>Fastverse Light Magenta Italic</string>
+	<string>Fastverse Light Magenta</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -63,9 +63,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#33AAE6FC</string>
-				<key>fontStyle</key>
-				<string> italic</string>
+				<string>#1C8BC7FC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -109,7 +107,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F08C00</string>
+				<string>#BD7100</string>
 			</dict>
 		</dict>
 		<dict>
@@ -186,7 +184,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#24B500</string>
+				<string>#1C9900</string>
 			</dict>
 		</dict>
 		<dict>
