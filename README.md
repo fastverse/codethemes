@@ -1,11 +1,14 @@
 # codethemes
- TexMate code themes, inspired by [*fastverse*](<https://github.com/fastverse/fastverse>) colours, mainly intended for RStudio.
+TexMate code themes, inspired by [*fastverse*](<https://github.com/fastverse/fastverse>) colours, mainly intended for the RStudio IDE.
 
-These themes are meant to constitute an improvement over the *cobalt* theme built into RStudio. The dark theme comes in a version with italic comments (as in *cobalt*) or non-italic comments as in the preview. There is also a variant of the theme that uses a brighter magenta colour for markdown code (instead of dark blue used by default). 
-
- Fastverse Dark            |  Cobalt
-:-------------------------:|:-------------------------:
-![](fastverse_dark.png)    |  ![](cobalt.png)
+These themes are meant to improve a bit over the (light) *textmate* and (dark) *cobalt* themes built into RStudio. Both themes come with a version that has italic comments (as in *cobalt*). There is also a variant of each theme that uses a brighter magenta colour for markdown code (instead of dark blue). If you find these themes useful, feel free to give feedback or propose refinements. 
 
 
-I'm still working on a light version of the theme. If you find this useful, feel free to give feedback or propose refinements. 
+Fastverse Dark                  |  Cobalt
+:------------------------------:|:-------------------------:
+![](dark/fastverse_dark.png)    |  ![](dark/cobalt.png)
+
+
+Fastverse Light                  |  Textmate (default)
+:------------------------------:|:-------------------------:
+![](light/fastverse_light.png)    |  ![](light/texmate.png)
