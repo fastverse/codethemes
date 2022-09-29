@@ -9,7 +9,7 @@
 	<key>author</key>
 	<string>Sebastian Krantz</string>
 	<key>name</key>
-	<string>Fastverse Light Magenta Italic</string>
+	<string>Fastverse Light Italic</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
@@ -109,7 +109,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BD7100</string>
+				<string>#0045BD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -496,6 +496,6 @@
 	<key>uuid</key>
 	<string>eb28d6b9-4094-44b8-9a7f-b11599079b2d</string>
 	<key>semanticClass</key>
-	<string>theme.dark.fastverse_dark</string>
+	<string>theme.light.fastverse_light_magenta</string>
 </dict>
 </plist>
